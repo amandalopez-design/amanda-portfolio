@@ -1,258 +1,585 @@
 {
   "projects": [
     {
-      "id": "agua-marte",
-      "title": "Etiqueta — Agua de Marte",
-      "description": "",
-      "tags": [
-        "packaging"
-      ],
-      "cover": "assets/img/agua_marte.jpg",
-      "image": "assets/img/agua_marte.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "agua-marte2",
-      "title": "Etiqueta — Agua de Marte",
-      "description": "",
-      "tags": [
-        "packaging"
-      ],
-      "cover": "assets/img/agua_marte2.jpg",
-      "image": "assets/img/agua_marte2.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "audiovisual-theorem",
-      "title": "Audiovisual Theorem",
+      "id": "a-sabado-gris-25-10-2006-jpg",
+      "title": "A Sabado Gris 25 10 2006",
       "description": "",
       "tags": [
         "editorial"
       ],
-      "cover": "assets/img/audiovisual_theorem.jpg",
-      "image": "assets/img/audiovisual_theorem.jpg",
+      "cover": "assets/img/A_sabado_gris_25_10_2006.jpg",
+      "image": "assets/img/A_sabado_gris_25_10_2006.jpg",
       "role": "Diseño gráfico",
       "client": "—",
       "year": "—"
     },
     {
-      "id": "cajetilla",
-      "title": "Cajetilla",
-      "description": "",
-      "tags": [
-        "packaging"
-      ],
-      "cover": "assets/img/cajetilla.jpg",
-      "image": "assets/img/cajetilla.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canair-pegatinas",
-      "title": "CAN AIRE — Pegatinas Bolsa 9×18",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canair_pegatinas.jpg",
-      "image": "assets/img/canair_pegatinas.jpg",
-      "role": "Diseño gráfico",
-      "client": "CAN AIRE",
-      "year": "—"
-    },
-    {
-      "id": "canaire-bolsa-cacahuetes",
-      "title": "CAN AIRE — Bolsa Cacahuetes",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_bolsa_cacahuetes.jpg",
-      "image": "assets/img/canaire_bolsa_cacahuetes.jpg",
-      "role": "Diseño gráfico",
-      "client": "CAN AIRE",
-      "year": "—"
-    },
-    {
-      "id": "canaire-id2",
-      "title": "CAN AIRE — Arte",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_id2.jpg",
-      "image": "assets/img/canaire_id2.jpg",
-      "role": "Diseño gráfico",
-      "client": "CAN AIRE",
-      "year": "—"
-    },
-    {
-      "id": "canaire-id-8-5x5-5",
-      "title": "CAN AIRE — Arte",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_id_8-5x5-5.jpg",
-      "image": "assets/img/canaire_id_8-5x5-5.jpg",
-      "role": "Diseño gráfico",
-      "client": "CAN AIRE",
-      "year": "—"
-    },
-    {
-      "id": "canaire-id-9x6",
-      "title": "CAN AIRE — Arte",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_id_9x6.jpg",
-      "image": "assets/img/canaire_id_9x6.jpg",
-      "role": "Diseño gráfico",
-      "client": "CAN AIRE",
-      "year": "—"
-    },
-    {
-      "id": "canaire-v2",
-      "title": "CAN AIRE — Arte",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_v2.jpg",
-      "image": "assets/img/canaire_v2.jpg",
-      "role": "Diseño gráfico",
-      "client": "CAN AIRE",
-      "year": "—"
-    },
-    {
-      "id": "display10-2010",
-      "title": "Display10 2010",
-      "description": "",
-      "tags": [
-        "editorial"
-      ],
-      "cover": "assets/img/display10_2010.jpg",
-      "image": "assets/img/display10_2010.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "krater-harmonic-tremor",
-      "title": "Krater — Harmonic Tremor (CD Artwork)",
-      "description": "",
-      "tags": [
-        "packaging",
-        "editorial"
-      ],
-      "cover": "assets/img/krater_harmonic_tremor.jpg",
-      "image": "assets/img/krater_harmonic_tremor.jpg",
-      "role": "Diseño gráfico",
-      "client": "Krater",
-      "year": "—"
-    },
-    {
-      "id": "lccln-design03",
-      "title": "LCELN — Diseño 03",
+      "id": "abrir-lceln-arte-diseno-03-jpeg-jpg",
+      "title": "Abrir Lceln Arte Diseno 03.Jpeg",
       "description": "",
       "tags": [
         "branding",
         "editorial"
       ],
-      "cover": "assets/img/lccln_design03.jpg",
-      "image": "assets/img/lccln_design03.jpg",
-      "role": "Diseño gráfico",
-      "client": "LCELN",
-      "year": "—"
-    },
-    {
-      "id": "lod-sabado-b",
-      "title": "LOD — Sábado Gris (Label B)",
-      "description": "",
-      "tags": [
-        "packaging",
-        "branding"
-      ],
-      "cover": "assets/img/lod_sabado_b.jpg",
-      "image": "assets/img/lod_sabado_b.jpg",
-      "role": "Diseño gráfico",
-      "client": "KliKtekture Records",
-      "year": "2006"
-    },
-    {
-      "id": "osthafen-2006",
-      "title": "Eintakt — Osthafen 01·09·2006 (Flyer)",
-      "description": "",
-      "tags": [
-        "poster",
-        "editorial"
-      ],
-      "cover": "assets/img/osthafen_2006.jpg",
-      "image": "assets/img/osthafen_2006.jpg",
-      "role": "Diseño gráfico",
-      "client": "Eintakt",
-      "year": "2006"
-    },
-    {
-      "id": "periodico-bn",
-      "title": "Periódico — Maqueta B/N (DINA2)",
-      "description": "",
-      "tags": [
-        "poster",
-        "editorial"
-      ],
-      "cover": "assets/img/periodico_bn.jpg",
-      "image": "assets/img/periodico_bn.jpg",
+      "cover": "assets/img/Abrir_LCELN_ARTE_diseno_03.jpeg.jpg",
+      "image": "assets/img/Abrir_LCELN_ARTE_diseno_03.jpeg.jpg",
       "role": "Diseño gráfico",
       "client": "—",
       "year": "—"
     },
     {
-      "id": "sangre-jabali",
-      "title": "Etiqueta — Sangre de Jabalí",
+      "id": "b-sabado-gris-25-10-2006-jpg",
+      "title": "B Sabado Gris 25 10 2006",
+      "description": "",
+      "tags": [
+        "editorial"
+      ],
+      "cover": "assets/img/B_sabado_gris_25_10_2006.jpg",
+      "image": "assets/img/B_sabado_gris_25_10_2006.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p1-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p1.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p2-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p2.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p2.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p3-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p3.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p3.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p4-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p4.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p4.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p5-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p5.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p5.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p6-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p6.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p6.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p7-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p7.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p7.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p8-jpg",
+      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p8.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p8.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-identificacion1-85x55-con-fondo-cmyk-imprimir-p1-jpg",
+      "title": "Canaire Impresion Identificacion1 85X55 Con Fondo Cmyk Imprimir",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION1__85x55_CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION1__85x55_CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-identificacion2-con-fondo-cmyk-imprimir-p1-jpg",
+      "title": "Canaire Impresion Identificacion2 Con Fondo Cmyk Imprimir",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION2__CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION2__CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-identificacion-9x6-con-fondo-cmyk-imprimir-p1-jpg",
+      "title": "Canaire Impresion Identificacion 9X6 Con Fondo Cmyk Imprimir",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-impresion-identificacion-9x6-con-fondo-cmyk-imprimir-p2-jpg",
+      "title": "Canaire Impresion Identificacion 9X6 Con Fondo Cmyk Imprimir",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p2.jpg",
+      "image": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p2.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canair-impresion-pegatinas-bolsa-9x18-p1-jpg",
+      "title": "Canair Impresion Pegatinas Bolsa 9X18",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p1.jpg",
+      "image": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canair-impresion-pegatinas-bolsa-9x18-p2-jpg",
+      "title": "Canair Impresion Pegatinas Bolsa 9X18",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p2.jpg",
+      "image": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p2.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canair-impresion-pegatinas-bolsa-9x18-p3-jpg",
+      "title": "Canair Impresion Pegatinas Bolsa 9X18",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p3.jpg",
+      "image": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p3.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canair-impresion-pegatinas-bolsa-9x18-p4-jpg",
+      "title": "Canair Impresion Pegatinas Bolsa 9X18",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p4.jpg",
+      "image": "assets/img/CANAIR_IMPRESION_PEGATINAS__Bolsa_9x18_p4.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "eintakt-et18-jpg",
+      "title": "Eintakt Et18",
       "description": "",
       "tags": [
         "packaging"
       ],
-      "cover": "assets/img/sangre_jabali.jpg",
-      "image": "assets/img/sangre_jabali.jpg",
+      "cover": "assets/img/EINTAKT_ET18.jpg",
+      "image": "assets/img/EINTAKT_ET18.jpg",
       "role": "Diseño gráfico",
       "client": "—",
       "year": "—"
     },
     {
-      "id": "sn050",
-      "title": "SN050 — Arte a 2 Tintas",
+      "id": "impresion-etiqueta-agua-de-marte-245x6-cmyk-p1-jpg",
+      "title": "Impresion Etiqueta Agua De Marte 245X6 Cmyk",
       "description": "",
       "tags": [
+        "packaging"
+      ],
+      "cover": "assets/img/IMPRESION_ETIQUETA_AGUA_DE_MARTE_245X6_CMYK_p1.jpg",
+      "image": "assets/img/IMPRESION_ETIQUETA_AGUA_DE_MARTE_245X6_CMYK_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "impresion-etiqueta-agua-de-marte-2-245x6-cmyk-p1-jpg",
+      "title": "Impresion Etiqueta Agua De Marte 2 245X6 Cmyk",
+      "description": "",
+      "tags": [
+        "packaging"
+      ],
+      "cover": "assets/img/IMPRESION_ETIQUETA_AGUA_DE_MARTE_2_245X6_CMYK_p1.jpg",
+      "image": "assets/img/IMPRESION_ETIQUETA_AGUA_DE_MARTE_2_245X6_CMYK_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "impresion-minusculaetiqueta-sangre-de-jabali-95x7-p1-jpg",
+      "title": "Impresion Minusculaetiqueta Sangre De Jabali 95X7",
+      "description": "",
+      "tags": [
+        "packaging"
+      ],
+      "cover": "assets/img/IMPRESION_MinusculaETIQUETA_SANGRE_DE_JABALI_95X7_p1.jpg",
+      "image": "assets/img/IMPRESION_MinusculaETIQUETA_SANGRE_DE_JABALI_95X7_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "impresion-periodico-v2-dina2-blanco-y-negro-p1-jpg",
+      "title": "Impresion Periodico V2 Dina2 Blanco Y Negro",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p1.jpg",
+      "image": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "impresion-periodico-v2-dina2-blanco-y-negro-p2-jpg",
+      "title": "Impresion Periodico V2 Dina2 Blanco Y Negro",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p2.jpg",
+      "image": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p2.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "impresion-periodico-v2-dina2-blanco-y-negro-p3-jpg",
+      "title": "Impresion Periodico V2 Dina2 Blanco Y Negro",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p3.jpg",
+      "image": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p3.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "sn050-2tint-p1-jpg",
+      "title": "Sn050 2Tint",
+      "description": "",
+      "tags": [
+        "packaging"
+      ],
+      "cover": "assets/img/SN050-2tint_p1.jpg",
+      "image": "assets/img/SN050-2tint_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "cajetilla-p1-jpg",
+      "title": "Cajetilla",
+      "description": "",
+      "tags": [
+        "packaging"
+      ],
+      "cover": "assets/img/cajetilla_p1.jpg",
+      "image": "assets/img/cajetilla_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2-p1-jpg",
+      "title": "Canaire V2",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_V2_p1.jpg",
+      "image": "assets/img/canaire_V2_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2-p2-jpg",
+      "title": "Canaire V2",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_V2_p2.jpg",
+      "image": "assets/img/canaire_V2_p2.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2-p3-jpg",
+      "title": "Canaire V2",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_V2_p3.jpg",
+      "image": "assets/img/canaire_V2_p3.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2-p4-jpg",
+      "title": "Canaire V2",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_V2_p4.jpg",
+      "image": "assets/img/canaire_V2_p4.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2-p5-jpg",
+      "title": "Canaire V2",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_V2_p5.jpg",
+      "image": "assets/img/canaire_V2_p5.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2-p6-jpg",
+      "title": "Canaire V2",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_V2_p6.jpg",
+      "image": "assets/img/canaire_V2_p6.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2-p7-jpg",
+      "title": "Canaire V2",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_V2_p7.jpg",
+      "image": "assets/img/canaire_V2_p7.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "carpeta-final-jpg",
+      "title": "Carpeta Final",
+      "description": "",
+      "tags": [
+        "editorial"
+      ],
+      "cover": "assets/img/carpeta_final.jpg",
+      "image": "assets/img/carpeta_final.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "cartel-berlin-lido-jpg",
+      "title": "Cartel Berlin Lido",
+      "description": "",
+      "tags": [
+        "editorial"
+      ],
+      "cover": "assets/img/cartel-berlin-lido.jpg",
+      "image": "assets/img/cartel-berlin-lido.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "cartel-definitivo-a4-jpg",
+      "title": "Cartel Definitivo A4",
+      "description": "",
+      "tags": [
+        "editorial"
+      ],
+      "cover": "assets/img/cartel-definitivo-A4.jpg",
+      "image": "assets/img/cartel-definitivo-A4.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "display09-cartelweb-jpg",
+      "title": "Display09 Cartelweb",
+      "description": "",
+      "tags": [
+        "editorial"
+      ],
+      "cover": "assets/img/display09_cartelweb.jpg",
+      "image": "assets/img/display09_cartelweb.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "display10-postera3-p1-jpg",
+      "title": "Display10 Postera3",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/display10_posterA3_p1.jpg",
+      "image": "assets/img/display10_posterA3_p1.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "eintaktflyer-jpg",
+      "title": "Eintaktflyer",
+      "description": "",
+      "tags": [
+        "poster",
         "editorial",
         "packaging"
       ],
-      "cover": "assets/img/sn050.jpg",
-      "image": "assets/img/sn050.jpg",
+      "cover": "assets/img/eintaktflyer.jpg",
+      "image": "assets/img/eintaktflyer.jpg",
       "role": "Diseño gráfico",
       "client": "—",
       "year": "—"
     },
     {
-      "id": "zementgarten-2006",
-      "title": "Eintakt — Zementgarten 25·08·2006 (Flyer)",
+      "id": "flyer-osthafen-01-09-2006-jpg",
+      "title": "Flyer Osthafen 01 09 2006",
       "description": "",
       "tags": [
         "poster",
         "editorial"
       ],
-      "cover": "assets/img/zementgarten_2006.jpg",
-      "image": "assets/img/zementgarten_2006.jpg",
+      "cover": "assets/img/flyer_osthafen_01_09_2006.jpg",
+      "image": "assets/img/flyer_osthafen_01_09_2006.jpg",
       "role": "Diseño gráfico",
-      "client": "Eintakt",
-      "year": "2006"
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "flyer-zementgarten-25-08-2006-jpg",
+      "title": "Flyer Zementgarten 25 08 2006",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/flyer_zementgarten_25_08_2006.jpg",
+      "image": "assets/img/flyer_zementgarten_25_08_2006.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "portada-audiovisualtheorem-jpg",
+      "title": "Portada Audiovisualtheorem",
+      "description": "",
+      "tags": [
+        "editorial"
+      ],
+      "cover": "assets/img/portada_audiovisualtheorem.jpg",
+      "image": "assets/img/portada_audiovisualtheorem.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
     }
   ]
 }
