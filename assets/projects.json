@@ -1,115 +1,258 @@
 {
   "projects": [
     {
-      "id": "lod-a-label",
-      "title": "LOD — Sábado Gris (Label A)",
-      "description": "Diseño de etiqueta de vinilo. Tipografía industrial y alto contraste.",
-      "tags": [
-        "packaging",
-        "branding"
-      ],
-      "cover": "assets/img/A_sabado_gris.jpg",
-      "image": "assets/img/A_sabado_gris.jpg",
-      "role": "Diseño gráfico",
-      "client": "KliKtekture Records",
-      "year": "2006"
-    },
-    {
-      "id": "lod-b-label",
-      "title": "LOD — Sábado Gris (Label B)",
-      "description": "Segunda cara del vinilo con composición modular y rojo de soporte.",
+      "id": "agua-marte",
+      "title": "Etiqueta — Agua de Marte",
+      "description": "",
       "tags": [
         "packaging"
       ],
-      "cover": "assets/img/B_sabado_gris.jpg",
-      "image": "assets/img/B_sabado_gris.jpg",
+      "cover": "assets/img/agua_marte.jpg",
+      "image": "assets/img/agua_marte.jpg",
       "role": "Diseño gráfico",
-      "client": "KliKtekture Records",
-      "year": "2006"
+      "client": "—",
+      "year": "—"
     },
     {
-      "id": "lod-sleeve",
-      "title": "LOD — Sábado Gris (Carátula)",
-      "description": "Arte de portada con fotografía intervenida, retícula y jerarquía tipográfica.",
+      "id": "agua-marte2",
+      "title": "Etiqueta — Agua de Marte",
+      "description": "",
       "tags": [
-        "packaging",
+        "packaging"
+      ],
+      "cover": "assets/img/agua_marte2.jpg",
+      "image": "assets/img/agua_marte2.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "audiovisual-theorem",
+      "title": "Audiovisual Theorem",
+      "description": "",
+      "tags": [
         "editorial"
       ],
-      "cover": "assets/img/lod_caratula.jpg",
-      "image": "assets/img/lod_caratula.jpg",
-      "role": "Dirección de arte, Diseño",
-      "client": "KliKtekture Records",
-      "year": "2006"
-    },
-    {
-      "id": "rock-city-berlin",
-      "title": "Rock in the City — Lido Berlin",
-      "description": "Cartel con círculos concéntricos y collage urbano; información jerarquizada.",
-      "tags": [
-        "editorial",
-        "poster"
-      ],
-      "cover": "assets/img/rock_in_the_city_2009.jpg",
-      "image": "assets/img/rock_in_the_city_2009.jpg",
-      "role": "Diseño de cartel",
-      "client": "Evento musical",
-      "year": "2009"
-    },
-    {
-      "id": "canarias-crea-watergate",
-      "title": "CanariasCrea — Watergate",
-      "description": "Cartel promocional; fotografía color pop y tipografía display.",
-      "tags": [
-        "editorial",
-        "poster"
-      ],
-      "cover": "assets/img/canarias_crea_watergate.jpg",
-      "image": "assets/img/canarias_crea_watergate.jpg",
-      "role": "Diseño de cartel",
-      "client": "CanariasCrea",
-      "year": "2007"
-    },
-    {
-      "id": "display-09",
-      "title": "Display 09 — Instituto Cervantes / Suicide Circus",
-      "description": "Identidad de evento con personaje 3D y textura vintage.",
-      "tags": [
-        "branding",
-        "poster"
-      ],
-      "cover": "assets/img/display09.jpg",
-      "image": "assets/img/display09.jpg",
-      "role": "Dirección de arte",
-      "client": "CanariasCrea",
-      "year": "2009"
-    },
-    {
-      "id": "eintakt-et18",
-      "title": "Neal White — Sonntags EP (Eintakt)",
-      "description": "Diseño de vinilo minimal: retícula, forma troquelada y fotografía geométrica.",
-      "tags": [
-        "packaging",
-        "editorial"
-      ],
-      "cover": "assets/img/eintakt_et18.jpg",
-      "image": "assets/img/eintakt_et18.jpg",
+      "cover": "assets/img/audiovisual_theorem.jpg",
+      "image": "assets/img/audiovisual_theorem.jpg",
       "role": "Diseño gráfico",
-      "client": "Eintakt",
-      "year": "2007"
+      "client": "—",
+      "year": "—"
     },
     {
-      "id": "eintakt-flyers",
-      "title": "Eintakt — Flyers / Quesadilla Chapulines",
-      "description": "Serie de flyers ilustrados con iconografía lúdica y color vibrante.",
+      "id": "cajetilla",
+      "title": "Cajetilla",
+      "description": "",
       "tags": [
-        "editorial",
+        "packaging"
+      ],
+      "cover": "assets/img/cajetilla.jpg",
+      "image": "assets/img/cajetilla.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "canair-pegatinas",
+      "title": "CAN AIRE — Pegatinas Bolsa 9×18",
+      "description": "",
+      "tags": [
         "branding"
       ],
-      "cover": "assets/img/eintakt_flyers.jpg",
-      "image": "assets/img/eintakt_flyers.jpg",
-      "role": "Diseño gráfico / Ilustración",
+      "cover": "assets/img/canair_pegatinas.jpg",
+      "image": "assets/img/canair_pegatinas.jpg",
+      "role": "Diseño gráfico",
+      "client": "CAN AIRE",
+      "year": "—"
+    },
+    {
+      "id": "canaire-bolsa-cacahuetes",
+      "title": "CAN AIRE — Bolsa Cacahuetes",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_bolsa_cacahuetes.jpg",
+      "image": "assets/img/canaire_bolsa_cacahuetes.jpg",
+      "role": "Diseño gráfico",
+      "client": "CAN AIRE",
+      "year": "—"
+    },
+    {
+      "id": "canaire-id2",
+      "title": "CAN AIRE — Arte",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_id2.jpg",
+      "image": "assets/img/canaire_id2.jpg",
+      "role": "Diseño gráfico",
+      "client": "CAN AIRE",
+      "year": "—"
+    },
+    {
+      "id": "canaire-id-8-5x5-5",
+      "title": "CAN AIRE — Arte",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_id_8-5x5-5.jpg",
+      "image": "assets/img/canaire_id_8-5x5-5.jpg",
+      "role": "Diseño gráfico",
+      "client": "CAN AIRE",
+      "year": "—"
+    },
+    {
+      "id": "canaire-id-9x6",
+      "title": "CAN AIRE — Arte",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_id_9x6.jpg",
+      "image": "assets/img/canaire_id_9x6.jpg",
+      "role": "Diseño gráfico",
+      "client": "CAN AIRE",
+      "year": "—"
+    },
+    {
+      "id": "canaire-v2",
+      "title": "CAN AIRE — Arte",
+      "description": "",
+      "tags": [
+        "branding"
+      ],
+      "cover": "assets/img/canaire_v2.jpg",
+      "image": "assets/img/canaire_v2.jpg",
+      "role": "Diseño gráfico",
+      "client": "CAN AIRE",
+      "year": "—"
+    },
+    {
+      "id": "display10-2010",
+      "title": "Display10 2010",
+      "description": "",
+      "tags": [
+        "editorial"
+      ],
+      "cover": "assets/img/display10_2010.jpg",
+      "image": "assets/img/display10_2010.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "krater-harmonic-tremor",
+      "title": "Krater — Harmonic Tremor (CD Artwork)",
+      "description": "",
+      "tags": [
+        "packaging",
+        "editorial"
+      ],
+      "cover": "assets/img/krater_harmonic_tremor.jpg",
+      "image": "assets/img/krater_harmonic_tremor.jpg",
+      "role": "Diseño gráfico",
+      "client": "Krater",
+      "year": "—"
+    },
+    {
+      "id": "lccln-design03",
+      "title": "LCELN — Diseño 03",
+      "description": "",
+      "tags": [
+        "branding",
+        "editorial"
+      ],
+      "cover": "assets/img/lccln_design03.jpg",
+      "image": "assets/img/lccln_design03.jpg",
+      "role": "Diseño gráfico",
+      "client": "LCELN",
+      "year": "—"
+    },
+    {
+      "id": "lod-sabado-b",
+      "title": "LOD — Sábado Gris (Label B)",
+      "description": "",
+      "tags": [
+        "packaging",
+        "branding"
+      ],
+      "cover": "assets/img/lod_sabado_b.jpg",
+      "image": "assets/img/lod_sabado_b.jpg",
+      "role": "Diseño gráfico",
+      "client": "KliKtekture Records",
+      "year": "2006"
+    },
+    {
+      "id": "osthafen-2006",
+      "title": "Eintakt — Osthafen 01·09·2006 (Flyer)",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/osthafen_2006.jpg",
+      "image": "assets/img/osthafen_2006.jpg",
+      "role": "Diseño gráfico",
       "client": "Eintakt",
-      "year": "2007"
+      "year": "2006"
+    },
+    {
+      "id": "periodico-bn",
+      "title": "Periódico — Maqueta B/N (DINA2)",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/periodico_bn.jpg",
+      "image": "assets/img/periodico_bn.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "sangre-jabali",
+      "title": "Etiqueta — Sangre de Jabalí",
+      "description": "",
+      "tags": [
+        "packaging"
+      ],
+      "cover": "assets/img/sangre_jabali.jpg",
+      "image": "assets/img/sangre_jabali.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "sn050",
+      "title": "SN050 — Arte a 2 Tintas",
+      "description": "",
+      "tags": [
+        "editorial",
+        "packaging"
+      ],
+      "cover": "assets/img/sn050.jpg",
+      "image": "assets/img/sn050.jpg",
+      "role": "Diseño gráfico",
+      "client": "—",
+      "year": "—"
+    },
+    {
+      "id": "zementgarten-2006",
+      "title": "Eintakt — Zementgarten 25·08·2006 (Flyer)",
+      "description": "",
+      "tags": [
+        "poster",
+        "editorial"
+      ],
+      "cover": "assets/img/zementgarten_2006.jpg",
+      "image": "assets/img/zementgarten_2006.jpg",
+      "role": "Diseño gráfico",
+      "client": "Eintakt",
+      "year": "2006"
     }
   ]
 }

@@ -63,7 +63,7 @@ document.querySelectorAll('.filters .filter').forEach(btn => {
   });
 });
 
-// Tema claro/oscuro manual
+// Tema claro/oscuro manual (si quisieras alternar en el futuro)
 const themeToggle = document.getElementById('themeToggle');
 themeToggle.addEventListener('click', () => {
   const isDark = document.documentElement.dataset.theme === 'dark';

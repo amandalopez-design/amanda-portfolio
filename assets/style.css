@@ -11,7 +11,6 @@
   --maxw: 1100px;
 }
 
-
 *{ box-sizing: border-box; }
 html,body{ height:100%; }
 body{
@@ -63,13 +62,7 @@ body{
   text-transform:uppercase;
 }
 .hero .line-1{ font-family: var(--font-display); font-weight:700; }
-.hero .line-2 {
-  background: #ffffff;   /* fondo blanco sólido */
-  color: #000000;        /* texto negro encima */
-  padding: 0 12px;       /* espacio para que el bloque respire */
-  border-radius: 4px;    /* opcional, esquinas suaves */
-}
-
+.hero .line-2{ background:#ffffff; color:#000000; padding:0 12px; border-radius:4px; } /* LOPEZ con caja blanca */
 .hero .line-3{ color: var(--accent); text-shadow:0 2px 0 #0000; }
 .subhead{ color:var(--muted); max-width: 60ch; }
 .hero-tags{ margin-top:10px; display:flex; flex-wrap:wrap; gap:8px; }
