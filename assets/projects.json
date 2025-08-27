@@ -40,19 +40,7 @@
       "client": "—",
       "year": "—"
     },
-    {
-      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p1-jpg",
-      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p1.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p1.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
+    
     {
       "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p2-jpg",
       "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
@@ -66,84 +54,8 @@
       "client": "—",
       "year": "—"
     },
-    {
-      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p3-jpg",
-      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p3.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p3.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p4-jpg",
-      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p4.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p4.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p5-jpg",
-      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p5.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p5.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p6-jpg",
-      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p6.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p6.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p7-jpg",
-      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p7.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p7.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-impresion-bolsa-cacahuetes-cmyk-p8-jpg",
-      "title": "Canaire Impresion Bolsa Cacahuetes Cmyk",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p8.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_BOLSA_cacahuetes_CMYK_p8.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
+    
+    
     {
       "id": "canaire-impresion-identificacion1-85x55-con-fondo-cmyk-imprimir-p1-jpg",
       "title": "Canaire Impresion Identificacion1 85X55 Con Fondo Cmyk Imprimir",
