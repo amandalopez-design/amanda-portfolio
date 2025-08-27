@@ -11,15 +11,7 @@
   --maxw: 1100px;
 }
 
-/* Modo claro 
-@media (prefers-color-scheme: light){
-  :root{
-    --bg: #ffffff;
-    --fg: #101114;
-    --muted: #4b4d54;
-  }
-}
-*/
+
 *{ box-sizing: border-box; }
 html,body{ height:100%; }
 body{
