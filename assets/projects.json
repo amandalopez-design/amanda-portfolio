@@ -150,34 +150,7 @@
       "client": "—",
       "year": "—"
     },
-    {
-      "id": "impresion-periodico-v2-dina2-blanco-y-negro-p2-jpg",
-      "title": "Impresion Periodico V2 Dina2 Blanco Y Negro",
-      "description": "",
-      "tags": [
-        "poster",
-        "editorial"
-      ],
-      "cover": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p2.jpg",
-      "image": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p2.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "impresion-periodico-v2-dina2-blanco-y-negro-p3-jpg",
-      "title": "Impresion Periodico V2 Dina2 Blanco Y Negro",
-      "description": "",
-      "tags": [
-        "poster",
-        "editorial"
-      ],
-      "cover": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p3.jpg",
-      "image": "assets/img/IMPRESION_PERIODICO_V2_DINA2_BLANCO_Y_NEGRO_p3.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
+    
     {
       "id": "sn050-2tint-p1-jpg",
       "title": "Sn050 2Tint",
