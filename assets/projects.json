@@ -217,45 +217,7 @@
       "client": "—",
       "year": "—"
     },
-    {
-      "id": "canaire-v2-p5-jpg",
-      "title": "Canaire V2",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_V2_p5.jpg",
-      "image": "assets/img/canaire_V2_p5.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-v2-p6-jpg",
-      "title": "Canaire V2",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_V2_p6.jpg",
-      "image": "assets/img/canaire_V2_p6.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-v2-p7-jpg",
-      "title": "Canaire V2",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/canaire_V2_p7.jpg",
-      "image": "assets/img/canaire_V2_p7.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
+    
     {
       "id": "carpeta-final-jpg",
       "title": "Carpeta Final",
