@@ -82,32 +82,7 @@
       "client": "—",
       "year": "—"
     },
-    {
-      "id": "canaire-impresion-identificacion-9x6-con-fondo-cmyk-imprimir-p1-jpg",
-      "title": "Canaire Impresion Identificacion 9X6 Con Fondo Cmyk Imprimir",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p1.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
-    {
-      "id": "canaire-impresion-identificacion-9x6-con-fondo-cmyk-imprimir-p2-jpg",
-      "title": "Canaire Impresion Identificacion 9X6 Con Fondo Cmyk Imprimir",
-      "description": "",
-      "tags": [
-        "branding"
-      ],
-      "cover": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p2.jpg",
-      "image": "assets/img/CANAIRE_IMPRESION_IDENTIFICACION_9x6_CON_FONDO_CMYK_IMPRIMIR_p2.jpg",
-      "role": "Diseño gráfico",
-      "client": "—",
-      "year": "—"
-    },
+    
     {
       "id": "canair-impresion-pegatinas-bolsa-9x18-p1-jpg",
       "title": "Canair Impresion Pegatinas Bolsa 9X18",
