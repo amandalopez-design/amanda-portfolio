@@ -1,0 +1,167 @@
+/* ---------- VARIABLES (Tipografías & paleta) ---------- */
+:root{
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji","Segoe UI Emoji";
+  --font-display: Georgia, "Times New Roman", Times, serif;
+  --bg: #0e0e0f;
+  --fg: #f2f2f3;
+  --muted: #b6b6b9;
+  --accent: #39ff14;   /* verde neón terror */
+  --accent-2: #00d36f; /* verde secundario */
+  --grid-gap: clamp(12px, 1.5vw, 20px);
+  --maxw: 1100px;
+}
+
+/* Modo claro */
+@media (prefers-color-scheme: light){
+  :root{
+    --bg: #ffffff;
+    --fg: #101114;
+    --muted: #4b4d54;
+  }
+}
+
+*{ box-sizing: border-box; }
+html,body{ height:100%; }
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--fg);
+  font-family: var(--font-sans);
+  line-height:1.4;
+}
+
+/* ---------- Header fijo ---------- */
+.site-header{
+  position:sticky; top:0; z-index:1000;
+  backdrop-filter: blur(8px);
+  background: color-mix(in oklab, var(--bg) 80%, transparent);
+  border-bottom:1px solid color-mix(in oklab, var(--fg) 10%, transparent);
+  display:flex; align-items:center; justify-content:space-between;
+  padding:10px clamp(14px, 3vw, 28px);
+}
+.brand{
+  text-decoration:none; color:var(--fg);
+  font-weight:800; letter-spacing:.5px;
+}
+.brand span{ color:var(--muted); }
+.site-nav a, .site-nav button{
+  margin-left:14px; color:var(--fg); text-decoration:none; font-size:0.95rem;
+}
+.site-nav .cta{
+  border:1px solid var(--fg); padding:.4rem .7rem; border-radius:999px;
+}
+.theme-toggle{
+  background:none; border:1px dashed color-mix(in oklab, var(--fg) 50%, transparent);
+  padding:.28rem .6rem; border-radius:999px; cursor:pointer;
+}
+
+/* ---------- Hero ---------- */
+.hero{
+  padding: min(12vh, 140px) clamp(16px, 3vw, 28px) min(6vh, 80px);
+  border-bottom:1px solid color-mix(in oklab, var(--fg) 10%, transparent);
+}
+.hero-inner{ max-width:var(--maxw); margin:0 auto; }
+.hero h1{
+  margin:0 0 10px 0;
+  display:grid;
+  font-size:clamp(42px, 10vw, 112px);
+  font-weight:900;
+  letter-spacing:-1px;
+  line-height:.9;
+  text-transform:uppercase;
+}
+.hero .line-1{ font-family: var(--font-display); font-weight:700; }
+.hero .line-2{ outline: 8px solid var(--fg); outline-offset:-8px; color:var(--bg); padding-inline:8px; }
+.hero .line-3{ color: var(--accent); text-shadow:0 2px 0 #0000; }
+.subhead{ color:var(--muted); max-width: 60ch; }
+.hero-tags{ margin-top:10px; display:flex; flex-wrap:wrap; gap:8px; }
+.hero-tags span{
+  border:1px solid color-mix(in oklab, var(--fg) 20%, transparent);
+  padding:.2rem .6rem; border-radius:999px; font-size:.9rem; color:var(--muted);
+}
+
+/* ---------- Layout secciones ---------- */
+.wrap{ max-width:var(--maxw); margin:0 auto; padding: clamp(22px, 4vw, 40px); }
+
+/* ---------- Toolbar ---------- */
+.toolbar{ display:flex; align-items:center; justify-content:space-between; gap:12px; }
+.filters{ display:flex; gap:8px; flex-wrap:wrap; }
+.filter{ background:none; border:1px solid color-mix(in oklab, var(--fg) 20%, transparent); color:var(--fg); padding:.38rem .7rem; border-radius:10px; cursor:pointer; }
+.filter.is-active{ border-color: var(--accent); color: var(--accent); }
+
+/* ---------- Grid ---------- */
+.grid{
+  display:grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: var(--grid-gap);
+}
+.card{
+  grid-column: span 12;
+  display:flex; flex-direction:column; gap:10px;
+  border-radius:14px; overflow:hidden;
+  background: color-mix(in oklab, var(--bg) 85%, #000);
+  border:1px solid color-mix(in oklab, var(--fg) 12%, transparent);
+  transition: transform .2s ease;
+}
+.card:hover{ transform: translateY(-2px); }
+.card .thumb{
+  width:100%; aspect-ratio: 16/10; object-fit: cover; display:block;
+}
+.card .meta{ display:flex; justify-content:space-between; align-items:flex-end; padding: 12px 12px 14px; }
+.card h3{ font-size: clamp(1.2rem, 2.4vw, 1.8rem); margin:0; }
+.card .tags{ color:var(--muted); font-size:.9rem; display:flex; gap:10px; flex-wrap:wrap; }
+
+/* Responsivo */
+@media (min-width: 680px){
+  .card{ grid-column: span 6; }
+}
+@media (min-width: 1024px){
+  .card:nth-child(6n+1){ grid-column: span 7; }
+  .card:nth-child(6n+2){ grid-column: span 5; }
+  .card:nth-child(6n+3){ grid-column: span 6; }
+  .card:nth-child(6n+4){ grid-column: span 6; }
+  .card:nth-child(6n+5){ grid-column: span 5; }
+  .card:nth-child(6n+6){ grid-column: span 7; }
+}
+
+/* ---------- About/Contacto ---------- */
+.about p{ max-width: 68ch; }
+.awards{ list-style: "—  "; margin: 12px 0 0 0; padding:0 0 0 1ch; color:var(--muted); }
+.awards li{ margin: .2rem 0; }
+
+.contact-form{
+  display:grid; gap:10px; max-width: 520px;
+}
+.contact-form input, .contact-form textarea{
+  width:100%; padding:.7rem .8rem; border-radius:10px;
+  border:1px solid color-mix(in oklab, var(--fg) 20%, transparent);
+  background: transparent; color:var(--fg);
+}
+.contact-form .cta{
+  background:var(--accent); color:black; border:none; padding:.7rem 1.1rem; border-radius:999px; cursor:pointer; font-weight:800;
+}
+
+/* ---------- Footer ---------- */
+.site-footer{
+  padding: 28px; text-align:center; color:var(--muted);
+  border-top:1px solid color-mix(in oklab, var(--fg) 10%, transparent);
+}
+
+/* ---------- Modal ---------- */
+dialog{
+  width:min(900px, 96vw); border:none; border-radius:16px; padding:0; overflow:hidden;
+  background: var(--bg); color: var(--fg);
+  border:1px solid color-mix(in oklab, var(--fg) 12%, transparent);
+}
+dialog::backdrop{ background: color-mix(in oklab, #000 60%, transparent); }
+.case-wrap{ padding:18px; }
+.case-wrap img{ width:100%; height:auto; border-radius:12px; margin:10px 0; }
+.case-desc{ color:var(--muted); }
+.case-meta{ color:var(--muted); font-size:.95rem; }
+.close{
+  position:absolute; top:8px; right:10px; background:none; border:none; color:var(--muted);
+  font-size:28px; cursor:pointer;
+}
+
+/* ---------- Utilidades ---------- */
+.visually-hidden{ position:absolute; width:1px; height:1px; overflow:hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space:nowrap; border:0; }

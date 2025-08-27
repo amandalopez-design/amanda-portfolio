@@ -1,0 +1,115 @@
+{
+  "projects": [
+    {
+      "id": "lod-a-label",
+      "title": "LOD — Sábado Gris (Label A)",
+      "description": "Diseño de etiqueta de vinilo. Tipografía industrial y alto contraste.",
+      "tags": [
+        "packaging",
+        "branding"
+      ],
+      "cover": "assets/img/A_sabado_gris.jpg",
+      "image": "assets/img/A_sabado_gris.jpg",
+      "role": "Diseño gráfico",
+      "client": "KliKtekture Records",
+      "year": "2006"
+    },
+    {
+      "id": "lod-b-label",
+      "title": "LOD — Sábado Gris (Label B)",
+      "description": "Segunda cara del vinilo con composición modular y rojo de soporte.",
+      "tags": [
+        "packaging"
+      ],
+      "cover": "assets/img/B_sabado_gris.jpg",
+      "image": "assets/img/B_sabado_gris.jpg",
+      "role": "Diseño gráfico",
+      "client": "KliKtekture Records",
+      "year": "2006"
+    },
+    {
+      "id": "lod-sleeve",
+      "title": "LOD — Sábado Gris (Carátula)",
+      "description": "Arte de portada con fotografía intervenida, retícula y jerarquía tipográfica.",
+      "tags": [
+        "packaging",
+        "editorial"
+      ],
+      "cover": "assets/img/lod_caratula.jpg",
+      "image": "assets/img/lod_caratula.jpg",
+      "role": "Dirección de arte, Diseño",
+      "client": "KliKtekture Records",
+      "year": "2006"
+    },
+    {
+      "id": "rock-city-berlin",
+      "title": "Rock in the City — Lido Berlin",
+      "description": "Cartel con círculos concéntricos y collage urbano; información jerarquizada.",
+      "tags": [
+        "editorial",
+        "poster"
+      ],
+      "cover": "assets/img/rock_in_the_city_2009.jpg",
+      "image": "assets/img/rock_in_the_city_2009.jpg",
+      "role": "Diseño de cartel",
+      "client": "Evento musical",
+      "year": "2009"
+    },
+    {
+      "id": "canarias-crea-watergate",
+      "title": "CanariasCrea — Watergate",
+      "description": "Cartel promocional; fotografía color pop y tipografía display.",
+      "tags": [
+        "editorial",
+        "poster"
+      ],
+      "cover": "assets/img/canarias_crea_watergate.jpg",
+      "image": "assets/img/canarias_crea_watergate.jpg",
+      "role": "Diseño de cartel",
+      "client": "CanariasCrea",
+      "year": "2007"
+    },
+    {
+      "id": "display-09",
+      "title": "Display 09 — Instituto Cervantes / Suicide Circus",
+      "description": "Identidad de evento con personaje 3D y textura vintage.",
+      "tags": [
+        "branding",
+        "poster"
+      ],
+      "cover": "assets/img/display09.jpg",
+      "image": "assets/img/display09.jpg",
+      "role": "Dirección de arte",
+      "client": "CanariasCrea",
+      "year": "2009"
+    },
+    {
+      "id": "eintakt-et18",
+      "title": "Neal White — Sonntags EP (Eintakt)",
+      "description": "Diseño de vinilo minimal: retícula, forma troquelada y fotografía geométrica.",
+      "tags": [
+        "packaging",
+        "editorial"
+      ],
+      "cover": "assets/img/eintakt_et18.jpg",
+      "image": "assets/img/eintakt_et18.jpg",
+      "role": "Diseño gráfico",
+      "client": "Eintakt",
+      "year": "2007"
+    },
+    {
+      "id": "eintakt-flyers",
+      "title": "Eintakt — Flyers / Quesadilla Chapulines",
+      "description": "Serie de flyers ilustrados con iconografía lúdica y color vibrante.",
+      "tags": [
+        "editorial",
+        "branding"
+      ],
+      "cover": "assets/img/eintakt_flyers.jpg",
+      "image": "assets/img/eintakt_flyers.jpg",
+      "role": "Diseño gráfico / Ilustración",
+      "client": "Eintakt",
+      "year": "2007"
+    }
+  ]
+}

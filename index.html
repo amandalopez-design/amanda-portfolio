@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Amanda Lopez — Portafolio</title>
+  <meta name="description" content="Portafolio de diseño gráfico. Scroll continuo con tipografías contundentes y grillas flexibles.">
+  <meta property="og:title" content="Amanda Lopez — Portafolio">
+  <meta property="og:description" content="Scroll continuo con tipografías contundentes y grillas flexibles.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#111111">
+  <link rel="preload" href="assets/style.css" as="style">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="#top" class="brand">AMANDA LOPEZ / <span>GRAPHIC DESIGN</span></a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="#proyectos">Proyectos</a>
+      <a href="#sobre-mi">Sobre mí</a>
+      <a href="#contacto" class="cta">Contacto</a>
+      <button id="themeToggle" class="theme-toggle" aria-label="Cambiar tema">· · ·</button>
+    </nav>
+  </header>
+
+  <main id="top">
+    <!-- HERO -->
+    <section class="hero" aria-label="Introducción">
+      <div class="hero-inner">
+        <h1>
+          <span class="line-1">IDENTIDAD</span>
+          <span class="line-2">TIPOGRAFÍA</span>
+          <span class="line-3">PACKAGING</span>
+        </h1>
+        <p class="subhead">Portafolio de proyectos seleccionados — enfoque en <strong>branding</strong>, <strong>editorial</strong> y <strong>dirección de arte</strong>. Scroll ↓</p>
+        <div class="hero-tags" role="list" aria-label="Especialidades">
+          <span role="listitem">Branding</span>
+          <span role="listitem">Editorial</span>
+          <span role="listitem">Packaging</span>
+          <span role="listitem">Motion</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROYECTOS -->
+    <section id="proyectos" class="wrap" aria-label="Proyectos">
+      <div class="toolbar">
+        <h2>Proyectos</h2>
+        <div class="filters" aria-label="Filtros">
+          <button class="filter is-active" data-filter="*">Todo</button>
+          <button class="filter" data-filter="branding">Branding</button>
+          <button class="filter" data-filter="editorial">Editorial</button>
+          <button class="filter" data-filter="packaging">Packaging</button>
+          <button class="filter" data-filter="poster">Poster</button>
+          <button class="filter" data-filter="motion">Motion</button>
+        </div>
+      </div>
+
+      <div id="grid" class="grid" aria-live="polite">
+        <!-- Items generados por JS desde projects.json -->
+      </div>
+    </section>
+
+    <!-- SOBRE MI -->
+    <section id="sobre-mi" class="about wrap">
+      <h2>Sobre mí</h2>
+      <p>
+        Soy diseñadora gráfica con foco en sistemas de identidad, tipografía y packaging musical.
+        Trabajo combinando <em>gestos tipográficos audaces</em> con grillas flexibles y color
+        expresivo. Disponible para proyectos de branding, editorial, envase y dirección de arte.
+      </p>
+      <ul class="awards">
+        <li><strong>Reconocimientos</strong>: Selecciones y publicaciones — música, cultura y eventos.</li>
+        <li><strong>Clientes</strong>: Sellos musicales, eventos, instituciones culturales.</li>
+      </ul>
+    </section>
+
+    <!-- CONTACTO -->
+    <section id="contacto" class="contact wrap">
+      <h2>Contacto</h2>
+      <p>¿Hablamos? Escríbeme a <a href="mailto:info@amandalopez.net">info@amandalopez.net</a>.</p>
+      <form class="contact-form" onsubmit="event.preventDefault(); alert('¡Gracias! Mensaje simulado en demo.');">
+        <label>Nombre <input type="text" required></label>
+        <label>Email <input type="email" required></label>
+        <label>Mensaje <textarea rows="4" required></textarea></label>
+        <button type="submit" class="cta">Enviar</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Amanda Lopez — Portafolio. Hecho con HTML/CSS/JS + JSON.</p>
+  </footer>
+
+  <!-- Modal para casos de estudio -->
+  <dialog id="caseModal" aria-labelledby="caseTitle">
+    <button class="close" aria-label="Cerrar" onclick="window.caseModal.close()">×</button>
+    <div class="case-wrap">
+      <h3 id="caseTitle"></h3>
+      <p id="caseDesc" class="case-desc"></p>
+      <img id="caseImg" alt="" loading="lazy">
+      <div id="caseMeta" class="case-meta"></div>
+    </div>
+  </dialog>
+
+  <script defer src="assets/script.js"></script>
+</body>
+</html>
